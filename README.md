@@ -100,7 +100,6 @@ platoons up to 45 people).
 </p>
 
 #### Contribution snake 🐍
-*(GitHub Action regenerates this nightly from my contribution grid)*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LauritsMou/LauritsMou/output/snake-dark.svg" alt="contribution snake animation" />
