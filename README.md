@@ -108,6 +108,8 @@ platoons up to 45 people).
 #### Activity graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauritsMou&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" />
+  <a href="https://github.com/LauritsMou?tab=overview" title="See full activity on my GitHub profile">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauritsMou&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph — click to see full GitHub activity" />
+  </a>
 </p>
 
