@@ -65,6 +65,19 @@ proactive insights. → **[intellens.ai](https://intellens.ai)**
 
 ---
 
+### 🎓 Background
+
+**CBS** — MSc Cand.merc.(it.) in IT Management & Business Economics
+(GPA **10.2 / 12**). Master's thesis: built an OSINT engine that
+geolocates offices and factories for ~250M companies worldwide to
+automate supplier risk analysis.
+
+Before CBS: 3 years as **Sergeant in the Danish Army** (commanded
+platoons up to 45 people). German picked up fluent during a year in
+Hamburg before the army.
+
+---
+
 ### 📊 GitHub activity
 
 <p align="center">
@@ -94,16 +107,3 @@ proactive insights. → **[intellens.ai](https://intellens.ai)**
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution calendar" />
 </p>
-
----
-
-### 🎓 Background
-
-**CBS** — MSc Cand.merc.(it.) in IT Management & Business Economics
-(GPA **10.2 / 12**). Master's thesis: built an OSINT engine that
-geolocates offices and factories for ~250M companies worldwide to
-automate supplier risk analysis.
-
-Before CBS: 3 years as **Sergeant in the Danish Army** (commanded
-platoons up to 45 people). German picked up fluent during a year in
-Hamburg before the army.
