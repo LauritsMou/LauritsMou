@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Laurits Mouritsen — IT Strategy & Architecture · Automation · intellens.ai" />
+  <img src="./assets/hero.svg" alt="Laurits Mouritsen, IT Strategy & Architecture, Automation, intellens.ai" />
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=4F8CFF&center=true&vCenter=true&width=720&lines=IT+Strategy+%26+Architecture+Manager+%C2%B7+Copenhagen;Automation+specialist+%E2%80%94+Python+%C2%B7+FastAPI+%C2%B7+AWS;Building+supply-chain+intelligence+at+intellens.ai;OSINT+%C2%B7+pandas+%C2%B7+PostgreSQL+%C2%B7+Leaflet" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=4F8CFF&center=true&vCenter=true&width=720&lines=IT+Strategy+%26+Architecture+Manager+%C2%B7+Copenhagen;Automation+specialist+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+AWS;Building+supply-chain+intelligence+at+intellens.ai;OSINT+%C2%B7+pandas+%C2%B7+PostgreSQL+%C2%B7+Leaflet" />
 </p>
 
 <p align="center">
-  <em>I sit at the intersection of <strong>business strategy</strong> and <strong>engineering</strong></em><br/>
-  <em>— translating the latest IT (LLMs, OSINT automation, cloud-native data pipelines)</em><br/>
+  <em>I work at the intersection of <strong>business strategy</strong> and <strong>engineering</strong>.</em><br/>
+  <em>The goal is always to turn the latest IT (LLMs, OSINT automation, cloud-native data pipelines)</em><br/>
   <em>into measurable revenue, cost-saving, and risk-reduction for the organisations I work with.</em>
 </p>
 
@@ -34,12 +34,12 @@
 
 ### 🛰️ [Intellens](https://intellens.ai)
 
-> *A customisable anti-virus for your entire supply chain — scans
+> *A customisable anti-virus for your entire supply chain. Scans
 > 200,000+ daily sources in 40+ languages, monitors 500+ international
 > databases, and tracks 3,000+ ports and airports.*
 
 AI-powered supply-chain risk intelligence that detects threats weeks in
-advance across 195+ countries — replacing reactive monitoring with
+advance across 195+ countries, replacing reactive monitoring with
 proactive insights. → **[intellens.ai](https://intellens.ai)**
 
 ---
@@ -73,13 +73,13 @@ proactive insights. → **[intellens.ai](https://intellens.ai)**
 
 ### 🎓 Background
 
-**Copenhagen Business School** — both degrees with top-grade GPAs:
+**Copenhagen Business School**. Both degrees with top-grade GPAs:
 
-- **MSc Cand.merc.(it.)** in IT Management & Business Economics *(2022–24,
+- **MSc Cand.merc.(it.)** in IT Management & Business Economics *(2022-24,
   GPA 10.2 / 12)*. Master's thesis: built an OSINT engine that geolocates
   offices and factories for ~250M companies worldwide to automate
   supplier risk analysis.
-- **BSc Business Administration & Digital Management** *(2019–22,
+- **BSc Business Administration & Digital Management** *(2019-22,
   GPA 10.1 / 12)*. Bachelor's dissertation: success factors behind the
   zero-commission trading platforms in the US and the data-ethical
   implications of their business model.
@@ -105,7 +105,7 @@ platoons up to 45 people).
 
 <p align="center">
   <a href="https://github.com/LauritsMou?tab=overview" title="See full activity on my GitHub profile">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauritsMou&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph — click to see full GitHub activity" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauritsMou&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph (click to see full GitHub activity)" />
   </a>
 </p>
 
