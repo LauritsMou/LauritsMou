@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Laurits 👋</h1>
+<p align="center">
+  <img src="./assets/hero.svg" alt="Laurits Mouritsen — IT Strategy & Architecture · Automation · intellens.ai" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laurits-mouritsen-464ab4129/">
@@ -71,6 +73,26 @@ proactive insights. → **[intellens.ai](https://intellens.ai)**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LauritsMou&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+</p>
+
+#### Contribution snake 🐍
+*(GitHub Action regenerates this nightly from my contribution grid)*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LauritsMou/LauritsMou/output/snake-dark.svg" alt="contribution snake animation" />
+</p>
+
+#### Activity graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauritsMou&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" />
+</p>
+
+#### 3D contribution calendar
+*(generated nightly via GitHub Action)*
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution calendar" />
 </p>
 
 ---

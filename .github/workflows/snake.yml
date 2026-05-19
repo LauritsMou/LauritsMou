@@ -1,0 +1,35 @@
+name: Generate Snake
+
+on:
+  # Run every night at 00:30 UTC so the snake stays fresh with new commits.
+  schedule:
+    - cron: "30 0 * * *"
+  # Allow manual trigger from the Actions tab.
+  workflow_dispatch:
+  # Trigger on push to main so a profile-tweak immediately rebuilds.
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution-grid snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8aa6e6,#4f8cff,#1f4dc4,#0a2870
+
+      - name: Push generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
