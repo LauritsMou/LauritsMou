@@ -2,9 +2,9 @@
 
 **IT Strategy & Architecture Manager** at SF Management · Copenhagen 🇩🇰
 
-I build supply-chain intelligence software at **[intellens.ai](https://intellens.ai)** —
-end-to-end ownership from PostgreSQL schema to FastAPI services to
-map-heavy frontends, deployed on AWS via GitHub Actions + SSM.
+I build full-stack data and automation systems — end-to-end ownership
+from database schema to backend services to the occasional frontend,
+deployed on AWS.
 
 **Specialty: automation.** Strong with AWS, Python, FastAPI, SQL, and
 PowerShell; comfortable with Power Automate and PowerBI for the
@@ -13,13 +13,15 @@ when the map calls for it.
 
 ---
 
-### 🛠️ Currently building
+### 🛰️ [Intellens](https://intellens.ai)
 
-- **[Intellens](https://intellens.ai)** — supply-chain risk intelligence
-  SaaS for CSRD / LkSG / CSDDD compliance. Bayesian risk rollup across
-  Tier-1/2/3 supplier networks, daily ingestion from 9 risk-domain
-  sources (conflict / climate / geopolitics / sanctions / …),
-  GPT-4o-mini for the NLP-heavy bits. AWS Lambda + RDS PostgreSQL.
+> *A customisable anti-virus for your entire supply chain — scans
+> 200,000+ daily sources in 40+ languages, monitors 500+ international
+> databases, and tracks 3,000+ ports and airports.*
+
+AI-powered supply-chain risk intelligence that detects threats weeks in
+advance across 195+ countries — replacing reactive monitoring with
+proactive insights. → [intellens.ai](https://intellens.ai)
 
 ---
 
@@ -45,18 +47,11 @@ when the map calls for it.
 **CBS** — MSc Cand.merc.(it.) in IT Management & Business Economics
 (GPA 10.2/12). Master's thesis: built an OSINT engine that geolocates
 offices and factories for ~250M companies worldwide to automate
-supplier risk analysis — the conceptual foundation Intellens is built on.
+supplier risk analysis.
 
 Before CBS: 3 years as **Sergeant in the Danish Army** (commanded
 platoons up to 45 people). German picked up fluent during a year in
 Hamburg before the army.
-
----
-
-### 📊 GitHub
-
-![stats](https://github-readme-stats.vercel.app/api?username=LauritsMou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauritsMou&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
