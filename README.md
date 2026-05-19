@@ -15,11 +15,6 @@ when the map calls for it.
 
 ### 🛠️ Currently building
 
-- **[Athena](https://athena.intellens.ai)** — internal rental + sales-comp
-  sourcing tool for the INVEST team. ~130k Boligportal listings + ~600k
-  Boliga transactions rendered on a single Leaflet map, polygon-select →
-  matrix + xlsx export, multi-tenant auth. FastAPI · pandas · Leaflet,
-  deployed to a t3.small behind nginx.
 - **[Intellens](https://intellens.ai)** — supply-chain risk intelligence
   SaaS for CSRD / LkSG / CSDDD compliance. Bayesian risk rollup across
   Tier-1/2/3 supplier networks, daily ingestion from 9 risk-domain
