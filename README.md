@@ -20,6 +20,12 @@
 </p>
 
 <p align="center">
+  <em>I sit at the intersection of <strong>business strategy</strong> and <strong>engineering</strong></em><br/>
+  <em>— translating the latest IT (LLMs, OSINT automation, cloud-native data pipelines)</em><br/>
+  <em>into measurable revenue, cost-saving, and risk-reduction for the organisations I work with.</em>
+</p>
+
+<p align="center">
   <em>End-to-end ownership from database schema to backend services to the occasional frontend.</em><br/>
   <em>Specialty: <strong>automation</strong>.</em>
 </p>
@@ -67,10 +73,16 @@ proactive insights. → **[intellens.ai](https://intellens.ai)**
 
 ### 🎓 Background
 
-**CBS** — MSc Cand.merc.(it.) in IT Management & Business Economics
-(GPA **10.2 / 12**). Master's thesis: built an OSINT engine that
-geolocates offices and factories for ~250M companies worldwide to
-automate supplier risk analysis.
+**Copenhagen Business School** — both degrees with top-grade GPAs:
+
+- **MSc Cand.merc.(it.)** in IT Management & Business Economics *(2022–24,
+  GPA 10.2 / 12)*. Master's thesis: built an OSINT engine that geolocates
+  offices and factories for ~250M companies worldwide to automate
+  supplier risk analysis.
+- **BSc Business Administration & Digital Management** *(2019–22,
+  GPA 10.1 / 12)*. Bachelor's dissertation: success factors behind the
+  zero-commission trading platforms in the US and the data-ethical
+  implications of their business model.
 
 Before CBS: 3 years as **Sergeant in the Danish Army** (commanded
 platoons up to 45 people). German picked up fluent during a year in
@@ -101,9 +113,3 @@ Hamburg before the army.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauritsMou&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" />
 </p>
 
-#### 3D contribution calendar
-*(generated nightly via GitHub Action)*
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution calendar" />
-</p>
