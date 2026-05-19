@@ -85,8 +85,7 @@ proactive insights. → **[intellens.ai](https://intellens.ai)**
   implications of their business model.
 
 Before CBS: 3 years as **Sergeant in the Danish Army** (commanded
-platoons up to 45 people). German picked up fluent during a year in
-Hamburg before the army.
+platoons up to 45 people).
 
 ---
 
