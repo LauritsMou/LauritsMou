@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=4F8CFF&center=true&vCenter=true&width=720&lines=IT+Strategy+%26+Architecture+Manager+%40+SF+Management;Automation+specialist+%E2%80%94+Python+%C2%B7+FastAPI+%C2%B7+AWS;Building+supply-chain+intelligence+at+intellens.ai;OSINT+%C2%B7+pandas+%C2%B7+PostgreSQL+%C2%B7+Leaflet" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=4F8CFF&center=true&vCenter=true&width=720&lines=Independent+IT+Consultant+%C2%B7+Copenhagen;Strategy+%C2%B7+Architecture+%C2%B7+Automation;Python+%C2%B7+FastAPI+%C2%B7+AWS+%C2%B7+SQL;Supply-chain+intelligence+at+intellens.ai" />
 </p>
 
 <p align="center">
