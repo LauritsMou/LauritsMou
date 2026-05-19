@@ -92,10 +92,6 @@ platoons up to 45 people).
 ### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=LauritsMou&theme=tokyonight&hide_border=true&card_width=420" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LauritsMou&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </p>
 
