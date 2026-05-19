@@ -73,16 +73,16 @@ proactive insights. → **[intellens.ai](https://intellens.ai)**
 
 ### 🎓 Background
 
-**Copenhagen Business School**. Both degrees with top-grade GPAs:
+**Copenhagen Business School**:
 
-- **MSc Cand.merc.(it.)** in IT Management & Business Economics *(2022-24,
-  GPA 10.2 / 12)*. Master's thesis: built an OSINT engine that geolocates
-  offices and factories for ~250M companies worldwide to automate
-  supplier risk analysis.
-- **BSc Business Administration & Digital Management** *(2019-22,
-  GPA 10.1 / 12)*. Bachelor's dissertation: success factors behind the
-  zero-commission trading platforms in the US and the data-ethical
-  implications of their business model.
+- **MSc Cand.merc.(it.)** in IT Management & Business Economics *(2022-24)*.
+  Master's thesis: built an OSINT engine that geolocates offices and
+  factories for ~250M companies worldwide to automate supplier risk
+  analysis.
+- **BSc Business Administration & Digital Management** *(2019-22)*.
+  Bachelor's dissertation: success factors behind the zero-commission
+  trading platforms in the US and the data-ethical implications of
+  their business model.
 
 Before CBS: 3 years as **Sergeant in the Danish Army** (commanded
 platoons up to 45 people).
